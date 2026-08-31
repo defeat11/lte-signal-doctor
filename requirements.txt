@@ -1,0 +1,4 @@
+playwright
+rich
+scikit-learn
+numpy
